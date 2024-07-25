@@ -15,7 +15,7 @@ import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
 const about = {
   title: "About me",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "I am a passionate Coding Instructor and Frontend Developer with 2 years of experience in the web development industry. My journey in tech has equipped me with a strong foundation in both teaching and hands-on development, allowing me to bridge the gap between complex technical concepts and practical application.",
   info: [
     {
       fieldName: "Name",
@@ -23,7 +23,7 @@ const about = {
     },
     {
       fieldName: "Phone",
-      fieldValue: "(+1) 226 504 4081",
+      fieldValue: "(+1) 226 504 4082",
     },
     {
       fieldName: "Experience",
@@ -57,7 +57,7 @@ const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My experience",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "Over the past two years, I have honed my skills through various projects and teaching experiences. As a Coding Instructor, I have had the opportunity to mentor and guide aspiring developers, helping them to unlock their potential and achieve their career goals. My role as a Frontend Developer has allowed me to work on exciting projects that push the boundaries of modern web development.",
   items: [
     {
       company: "Code Ninja London South",
@@ -92,7 +92,7 @@ const education = {
   icon: "/assets/resume/cap.svg",
   title: "My education",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "I graduated from Fanshawe College's Web and App Development course, where I gained comprehensive knowledge and hands-on experience in creating modern, responsive web and mobile applications. My time at Fanshawe College provided me with a solid foundation in web and app development, preparing me to tackle real-world challenges and contribute effectively to any development team.",
   items: [
     {
       institution: "Fanshawe College",
@@ -121,7 +121,7 @@ const education = {
 const skills = {
   title: "My skills",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "As a web developer, I have a robust skill set that includes proficiency in both frontend and backend technologies. I am well-versed in HTML and CSS for creating responsive and visually appealing layouts. My JavaScript expertise allows me to build dynamic and interactive user interfaces, while my experience with React and Next.js helps me develop scalable and high-performance web applications. Additionally, I have a solid understanding of Angular for creating robust single-page applications and Node.js for implementing efficient server-side logic and APIs. My diverse skill set ensures that I can handle various aspects of web development projects effectively.",
   skillList: [
     {
       icon: <FaHtml5 />,
