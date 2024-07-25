@@ -19,27 +19,27 @@ const about = {
   info: [
     {
       fieldName: "Name",
-      fieldValue: "Luke Coleman",
+      fieldValue: "Lee Hoang",
     },
     {
       fieldName: "Phone",
-      fieldValue: "(+40) 321 654 678",
+      fieldValue: "(+1) 226 504 4081",
     },
     {
       fieldName: "Experience",
-      fieldValue: "12+ Years",
+      fieldValue: "2+ Years",
     },
     {
       fieldName: "Skype",
-      fieldValue: "luke.01",
+      fieldValue: "hoangcaoly1992",
     },
     {
       fieldName: "Nationality",
-      fieldValue: "American",
+      fieldValue: "Vietnamese",
     },
     {
       fieldName: "Email",
-      fieldValue: "luke.01@gmail.com",
+      fieldValue: "leehoang2311@gmail.com",
     },
     {
       fieldName: "Freelance",
@@ -47,7 +47,7 @@ const about = {
     },
     {
       fieldName: "Languages",
-      fieldValue: "English, Spanish",
+      fieldValue: "English, Vietnamese, Mandarin",
     },
   ],
 };
@@ -60,24 +60,19 @@ const experience = {
     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
   items: [
     {
-      company: "Tech Solutions Inc.",
-      position: "Full Stack Developer",
+      company: "Code Ninja London South",
+      position: "Coding Instructor",
+      duration: "2023 - Present",
+    },
+    {
+      company: "18Studio",
+      position: "Front-End Developer Intern",
       duration: "2022 - Present",
     },
     {
-      company: "Web Design Studio",
-      position: "Front-End Developer Intern",
-      duration: "Summer 2021",
-    },
-    {
       company: "E-commerce Startup",
-      position: "Freelance Web Developer",
+      position: "UI/UX Developer",
       duration: "2020 - 2021",
-    },
-    {
-      company: "Tech Academy",
-      position: "Teaching Assistant",
-      duration: "2019 - 2020",
     },
     {
       company: "Digital Agency",
@@ -85,9 +80,9 @@ const experience = {
       duration: "2018 - 2019",
     },
     {
-      company: "Software Development Firm",
-      position: "Junior Developer",
-      duration: "2017 - 2018",
+      company: "HANET Corp",
+      position: "Assistant Product Manager",
+      duration: "2015 - 2016",
     },
   ],
 };
@@ -100,34 +95,24 @@ const education = {
     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
   items: [
     {
-      institution: "Online Course Platform",
-      degree: "Full Stack Web Development Bootcamp",
-      duration: "2023",
+      institution: "Fanshawe College",
+      degree: "Internet Web and App Development",
+      duration: "2021 - 2023",
     },
     {
-      institution: "Codecademy",
-      degree: "Front-end Track",
+      institution: "Fanshawe College",
+      degree: "Interactive Design - 3D Development",
+      duration: "2019 - 2021",
+    },
+    {
+      institution: "Amazon Web Services",
+      degree: "Programming Course",
       duration: "2022",
     },
     {
-      institution: "Online Course",
-      degree: "Programming Course",
-      duration: "2020 - 2021",
-    },
-    {
-      institution: "Tech Institute",
-      degree: "Certified Web Developer",
-      duration: "2019",
-    },
-    {
-      institution: "Design School",
-      degree: "Diploma in Graphic Design",
-      duration: "2016 - 2018",
-    },
-    {
-      institution: "Community College",
+      institution: "HIAST",
       degree: "Associate Degree in Computer Science",
-      duration: "2014 - 2016",
+      duration: "2010 - 2013",
     },
   ],
 };
