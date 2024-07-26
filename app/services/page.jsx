@@ -8,28 +8,28 @@ const services = [
     num: "01",
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
+      "As a seasoned web developer, I bring a comprehensive skill set and a passion for creating engaging, user-friendly web experiences. With a solid foundation in both frontend and backend technologies, I am equipped to handle the full spectrum of web development tasks.",
     href: "",
   },
   {
     num: "02",
     title: "UI/UX Design",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
+      "I have a strong foundation in UI/UX design, which plays a crucial role in my web development process. My approach to design is centered on creating intuitive, user-friendly interfaces that enhance the overall user experience.",
     href: "",
   },
   {
     num: "03",
     title: "Logo Design",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
+      "Creating a memorable and impactful logo is essential for establishing a strong brand identity. My approach to logo design involves a combination of creativity, strategic thinking, and attention to detail. I focus on crafting logos that are not only visually appealing but also effectively communicate the essence of the brand.",
     href: "",
   },
   {
     num: "04",
     title: "SEO",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
+      "I have a strong foundation in Search Engine Optimization (SEO), ensuring that the websites I develop not only look great but also perform well in search engine rankings. My goal is to create websites that are not only user-friendly and visually appealing but also easily discoverable by search engines, driving more organic traffic and ensuring long-term success.",
     href: "",
   },
 ];
